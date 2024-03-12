@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "За нас"
+    url: /about-us/
+  - title: "Галерия"
+    url: /gallery/
+  - title: "Най-добрите брандове за удължаване на коса в света"
+    url: /best-hair-extensions-brands-world/
+  - title: "Разширения за коса"
+    url: /hair-extensions/
+  - title: "Нашият главен коафьор"
+    url: /our-main-hairstylist/
+  - title: "Нашата продуктова гама"
+    url: /our-products/
+  - title: "Нашата философия за красива коса"
+    url: /philosophy-beautiful-hair/
+  - title: "Екстеншъни със самозалепващи се лепенки"
+    url: /tape-in-extensions/
+
+bg:
+  - title: "English"
+    url: https://artforumhair.com/
